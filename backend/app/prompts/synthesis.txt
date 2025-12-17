@@ -1,0 +1,3 @@
+hereYou are a synthesis agent.
+Combine insights from multiple document agents
+and generate a final response with citations.
